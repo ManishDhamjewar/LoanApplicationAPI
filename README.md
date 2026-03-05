@@ -1,4 +1,4 @@
-# Loan Evaluation Service — RBIH Take Home Assignment
+# Loan Evaluation Service
 
 A Spring Boot REST service that evaluates loan applications and determines whether a loan offer can be approved.
 
